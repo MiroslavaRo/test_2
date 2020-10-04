@@ -1,0 +1,12 @@
+D:\VUM STUDY\Programming\учебные проекты\project1\Новая папка\test_2\test_1 (continue)\bin\Debug\netcoreapp3.1\lesson_11.exe
+D:\VUM STUDY\Programming\учебные проекты\project1\Новая папка\test_2\test_1 (continue)\bin\Debug\netcoreapp3.1\lesson_11.deps.json
+D:\VUM STUDY\Programming\учебные проекты\project1\Новая папка\test_2\test_1 (continue)\bin\Debug\netcoreapp3.1\lesson_11.runtimeconfig.json
+D:\VUM STUDY\Programming\учебные проекты\project1\Новая папка\test_2\test_1 (continue)\bin\Debug\netcoreapp3.1\lesson_11.runtimeconfig.dev.json
+D:\VUM STUDY\Programming\учебные проекты\project1\Новая папка\test_2\test_1 (continue)\bin\Debug\netcoreapp3.1\lesson_11.dll
+D:\VUM STUDY\Programming\учебные проекты\project1\Новая папка\test_2\test_1 (continue)\bin\Debug\netcoreapp3.1\lesson_11.pdb
+D:\VUM STUDY\Programming\учебные проекты\project1\Новая папка\test_2\test_1 (continue)\obj\Debug\netcoreapp3.1\lesson_11.AssemblyInfoInputs.cache
+D:\VUM STUDY\Programming\учебные проекты\project1\Новая папка\test_2\test_1 (continue)\obj\Debug\netcoreapp3.1\lesson_11.AssemblyInfo.cs
+D:\VUM STUDY\Programming\учебные проекты\project1\Новая папка\test_2\test_1 (continue)\obj\Debug\netcoreapp3.1\lesson_11.csproj.CoreCompileInputs.cache
+D:\VUM STUDY\Programming\учебные проекты\project1\Новая папка\test_2\test_1 (continue)\obj\Debug\netcoreapp3.1\lesson_11.dll
+D:\VUM STUDY\Programming\учебные проекты\project1\Новая папка\test_2\test_1 (continue)\obj\Debug\netcoreapp3.1\lesson_11.pdb
+D:\VUM STUDY\Programming\учебные проекты\project1\Новая папка\test_2\test_1 (continue)\obj\Debug\netcoreapp3.1\lesson_11.genruntimeconfig.cache
