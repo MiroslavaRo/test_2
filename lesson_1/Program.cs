@@ -16,6 +16,7 @@ namespace lesson_3
             lesson10();
             lesson11();
         }
+
        static void lesson3()
         {
             double x = 5.25;
