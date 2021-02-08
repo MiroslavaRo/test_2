@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VUM STUDY\\Programming\\учебные проекты\\project1\\Новая папка\\test_2\\lesson_22\\lesson_22.csproj",
+      "projectUniqueName": "D:\\VUM STUDY\\1 year 1 semester\\Programming\\учебные проекты\\courses2\\lesson_22\\lesson_22.csproj",
       "projectName": "lesson_22",
-      "projectPath": "D:\\VUM STUDY\\Programming\\учебные проекты\\project1\\Новая папка\\test_2\\lesson_22\\lesson_22.csproj",
+      "projectPath": "D:\\VUM STUDY\\1 year 1 semester\\Programming\\учебные проекты\\courses2\\lesson_22\\lesson_22.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "D:\\VUM STUDY\\Programming\\учебные проекты\\project1\\Новая папка\\test_2\\lesson_22\\obj\\",
+      "outputPath": "D:\\VUM STUDY\\1 year 1 semester\\Programming\\учебные проекты\\courses2\\lesson_22\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

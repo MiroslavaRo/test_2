@@ -10,3 +10,16 @@ D:\VUM STUDY\Programming\учебные проекты\project1\Новая па�
 D:\VUM STUDY\Programming\учебные проекты\project1\Новая папка\test_2\Lesson_35\obj\Debug\netcoreapp3.1\Lesson_35.dll
 D:\VUM STUDY\Programming\учебные проекты\project1\Новая папка\test_2\Lesson_35\obj\Debug\netcoreapp3.1\Lesson_35.pdb
 D:\VUM STUDY\Programming\учебные проекты\project1\Новая папка\test_2\Lesson_35\obj\Debug\netcoreapp3.1\Lesson_35.genruntimeconfig.cache
+D:\VUM STUDY\1 year 1 semester\Programming\учебные проекты\courses2\Lesson_35\bin\Debug\netcoreapp3.1\Lesson_35.exe
+D:\VUM STUDY\1 year 1 semester\Programming\учебные проекты\courses2\Lesson_35\bin\Debug\netcoreapp3.1\Lesson_35.deps.json
+D:\VUM STUDY\1 year 1 semester\Programming\учебные проекты\courses2\Lesson_35\bin\Debug\netcoreapp3.1\Lesson_35.runtimeconfig.json
+D:\VUM STUDY\1 year 1 semester\Programming\учебные проекты\courses2\Lesson_35\bin\Debug\netcoreapp3.1\Lesson_35.runtimeconfig.dev.json
+D:\VUM STUDY\1 year 1 semester\Programming\учебные проекты\courses2\Lesson_35\bin\Debug\netcoreapp3.1\Lesson_35.dll
+D:\VUM STUDY\1 year 1 semester\Programming\учебные проекты\courses2\Lesson_35\bin\Debug\netcoreapp3.1\Lesson_35.pdb
+D:\VUM STUDY\1 year 1 semester\Programming\учебные проекты\courses2\Lesson_35\obj\Debug\netcoreapp3.1\Lesson_35.csprojAssemblyReference.cache
+D:\VUM STUDY\1 year 1 semester\Programming\учебные проекты\courses2\Lesson_35\obj\Debug\netcoreapp3.1\Lesson_35.AssemblyInfoInputs.cache
+D:\VUM STUDY\1 year 1 semester\Programming\учебные проекты\courses2\Lesson_35\obj\Debug\netcoreapp3.1\Lesson_35.AssemblyInfo.cs
+D:\VUM STUDY\1 year 1 semester\Programming\учебные проекты\courses2\Lesson_35\obj\Debug\netcoreapp3.1\Lesson_35.csproj.CoreCompileInputs.cache
+D:\VUM STUDY\1 year 1 semester\Programming\учебные проекты\courses2\Lesson_35\obj\Debug\netcoreapp3.1\Lesson_35.dll
+D:\VUM STUDY\1 year 1 semester\Programming\учебные проекты\courses2\Lesson_35\obj\Debug\netcoreapp3.1\Lesson_35.pdb
+D:\VUM STUDY\1 year 1 semester\Programming\учебные проекты\courses2\Lesson_35\obj\Debug\netcoreapp3.1\Lesson_35.genruntimeconfig.cache
