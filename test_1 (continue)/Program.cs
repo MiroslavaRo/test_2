@@ -7,7 +7,7 @@ namespace lesson_11
         static void Main(string[] args)
         {
             int i = int.Parse(Console.ReadLine());
-
+             
             if (i < 18)
             {
                 Console.WriteLine("Ребенок");
