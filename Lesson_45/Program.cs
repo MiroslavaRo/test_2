@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace Lesson_45
+namespace lesson_45
 {
     class Program
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Lesson_42
+namespace lesson_42
 {
     class Program
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Dynamic;
 
-namespace Lesson_28
+namespace lesson_28
 {
     class Program
     {
