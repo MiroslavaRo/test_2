@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VUM STUDY\\1 year 1 semester\\Programming\\учебные проекты\\courses2\\Lesson_44\\Lesson_44.csproj": {}
+    "D:\\VUM STUDY\\1 year 1 semester\\Programming\\учебные проекты\\courses2\\Lesson_44\\lesson_44.csproj": {}
   },
   "projects": {
-    "D:\\VUM STUDY\\1 year 1 semester\\Programming\\учебные проекты\\courses2\\Lesson_44\\Lesson_44.csproj": {
+    "D:\\VUM STUDY\\1 year 1 semester\\Programming\\учебные проекты\\courses2\\Lesson_44\\lesson_44.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VUM STUDY\\1 year 1 semester\\Programming\\учебные проекты\\courses2\\Lesson_44\\Lesson_44.csproj",
-        "projectName": "Lesson_44",
-        "projectPath": "D:\\VUM STUDY\\1 year 1 semester\\Programming\\учебные проекты\\courses2\\Lesson_44\\Lesson_44.csproj",
+        "projectUniqueName": "D:\\VUM STUDY\\1 year 1 semester\\Programming\\учебные проекты\\courses2\\Lesson_44\\lesson_44.csproj",
+        "projectName": "lesson_44",
+        "projectPath": "D:\\VUM STUDY\\1 year 1 semester\\Programming\\учебные проекты\\courses2\\Lesson_44\\lesson_44.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
         "outputPath": "D:\\VUM STUDY\\1 year 1 semester\\Programming\\учебные проекты\\courses2\\Lesson_44\\obj\\",
         "projectStyle": "PackageReference",
