@@ -1,0 +1,13 @@
+D:\VUM STUDY\1 year 1 semester\Programming\учебные проекты\courses2\Lesson_43\obj\Debug\netcoreapp3.1\Lesson_43.AssemblyInfoInputs.cache
+D:\VUM STUDY\1 year 1 semester\Programming\учебные проекты\courses2\Lesson_43\obj\Debug\netcoreapp3.1\Lesson_43.AssemblyInfo.cs
+D:\VUM STUDY\1 year 1 semester\Programming\учебные проекты\courses2\Lesson_43\obj\Debug\netcoreapp3.1\Lesson_43.csproj.CoreCompileInputs.cache
+D:\VUM STUDY\1 year 1 semester\Programming\учебные проекты\courses2\Lesson_43\bin\Debug\netcoreapp3.1\Lesson_43.exe
+D:\VUM STUDY\1 year 1 semester\Programming\учебные проекты\courses2\Lesson_43\bin\Debug\netcoreapp3.1\Lesson_43.deps.json
+D:\VUM STUDY\1 year 1 semester\Programming\учебные проекты\courses2\Lesson_43\bin\Debug\netcoreapp3.1\Lesson_43.runtimeconfig.json
+D:\VUM STUDY\1 year 1 semester\Programming\учебные проекты\courses2\Lesson_43\bin\Debug\netcoreapp3.1\Lesson_43.runtimeconfig.dev.json
+D:\VUM STUDY\1 year 1 semester\Programming\учебные проекты\courses2\Lesson_43\bin\Debug\netcoreapp3.1\Lesson_43.dll
+D:\VUM STUDY\1 year 1 semester\Programming\учебные проекты\courses2\Lesson_43\bin\Debug\netcoreapp3.1\Lesson_43.pdb
+D:\VUM STUDY\1 year 1 semester\Programming\учебные проекты\courses2\Lesson_43\obj\Debug\netcoreapp3.1\Lesson_43.csprojAssemblyReference.cache
+D:\VUM STUDY\1 year 1 semester\Programming\учебные проекты\courses2\Lesson_43\obj\Debug\netcoreapp3.1\Lesson_43.dll
+D:\VUM STUDY\1 year 1 semester\Programming\учебные проекты\courses2\Lesson_43\obj\Debug\netcoreapp3.1\Lesson_43.pdb
+D:\VUM STUDY\1 year 1 semester\Programming\учебные проекты\courses2\Lesson_43\obj\Debug\netcoreapp3.1\Lesson_43.genruntimeconfig.cache
